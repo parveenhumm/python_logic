@@ -1,0 +1,7 @@
+1. Title ➔ st.title()
+2. Subheader ➔ st.subheader("Input Section")
+3. Columns ➔ st.columns(2) for inputs
+4. Center Button ➔ st.columns(3) and place button in center
+5. After button press ➔ show success message
+6. Balloons after success ➔ st.balloons()
+7. Maybe show a metric ➔ st.metric()
